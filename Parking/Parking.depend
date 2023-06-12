@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1686508295 source:c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\main.cpp
+	<iostream>
+	<cmath>
+	<cctype>
+	"BiletParcare.h"
+	"Dispozitiv.h"
+	"Settings.h"
+	"CarClient.h"
+	"CarAngajat.h"
+	"Parcare.h"
+	"Administrare_Fisier.h"
+	"CitireNumar.h"
+
+1686508091 source:c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\src\biletparcare.cpp
+	"BiletParcare.h"
+
+1686508111 c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\include\biletparcare.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
+1685463033 source:c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\src\settings.cpp
+	"Settings.h"
+
+1686496617 c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\include\settings.h
+	<iostream>
+	<fstream>
+	<string>
+
+1686508091 source:c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\src\dispozitiv.cpp
+	"Dispozitiv.h"
+
+1686508042 c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\include\dispozitiv.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<iomanip>
+	<chrono>
+	<stdexcept>
+	<algorithm>
+	"Settings.h"
+
+1686508179 source:c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\src\carclient.cpp
+	"CarClient.h"
+
+1686508179 c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\include\carclient.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<iomanip>
+
+1686508209 source:c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\src\carangajat.cpp
+	"CarAngajat.h"
+
+1686508209 c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\include\carangajat.h
+	<iostream>
+	<fstream>
+	<string>
+	"CarClient.h"
+
+1686507956 source:c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\src\parcare.cpp
+	"Parcare.h"
+
+1686507992 c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\include\parcare.h
+	<iostream>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	"CarClient.h"
+	"CarAngajat.h"
+	"BiletParcare.h"
+
+1686508243 source:c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\src\administrare_fisier.cpp
+	"Administrare_Fisier.h"
+
+1686508243 c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\include\administrare_fisier.h
+	"CarAngajat.h"
+	"CarClient.h"
+
+1686508271 source:c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\src\citirenumar.cpp
+	"CitireNumar.h"
+
+1686508271 c:\users\grati\desktop\poo proiect\parcare c++ v8 codeblocks\parking\include\citirenumar.h
+	<iostream>
+	<string>
+
